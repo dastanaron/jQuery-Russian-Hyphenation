@@ -22,3 +22,4 @@
 
 Дискуссия о работе и применении в жизни: http://htmler.ru/2013/12/07/jquery-perenosy-russkogo-teksta/ 
 
+Источник алгоритма расстановки переносов: http://xpoint.ru/know-how/VebAlgoritmyi/RabotaSTekstami/RasstanovkaPerenosov
