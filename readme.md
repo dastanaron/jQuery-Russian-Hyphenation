@@ -20,5 +20,5 @@
 `	</script>`
 
 
-Дискуссия о работе и применении класса в жизни: http://htmler.ru/2013/12/07/jquery-perenosy-russkogo-teksta/ 
+Дискуссия о работе и применении жизни: http://htmler.ru/2013/12/07/jquery-perenosy-russkogo-teksta/ 
 
