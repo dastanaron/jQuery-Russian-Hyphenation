@@ -5,7 +5,7 @@
 
 Применение
 ------------
-<code>
+`
 	<script src='js/jquery.js'></script>
 	<script src='js/jquery.hyphen.ru.js'></script>
 	<script>
@@ -13,7 +13,7 @@
 			$('p').hyphenate();
 		});
 	</script>
-</code>
+`
 
 Дискуссия о работе и применении класса в жизни: http://htmler.ru/2013/12/07/jquery-perenosy-russkogo-teksta/ 
 
