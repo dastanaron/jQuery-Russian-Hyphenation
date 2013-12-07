@@ -6,11 +6,17 @@
 Применение
 ------------
 `	<script src='js/jquery.js'></script>`
+
 `	<script src='js/jquery.hyphen.ru.js'></script>`
+
 `	<script>`
+
 `		$(function(){`
+
 `			$('p').hyphenate();`
+
 `		});`
+
 `	</script>`
 
 
